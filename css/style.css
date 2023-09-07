@@ -97,7 +97,7 @@ header.shadow.logo{
 .home{
     width: 100%;
     min-height: 440px;
-    background: url("/images/welcome-1600.jpg");
+    background: url("/images/welcome-1600.JPG");
     display: grid;
     justify-content: center;
     align-items: center;
