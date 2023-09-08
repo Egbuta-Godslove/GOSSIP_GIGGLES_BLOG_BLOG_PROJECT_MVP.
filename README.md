@@ -1,8 +1,12 @@
 # Gossip Giggles
 
 ## Project Overview
+![gossip giggles landing page](https://github.com/Egbuta-Godslove/GOSSIP_GIGGLES_BLOG_PROJECT_MVP./assets/118941659/a2a7404c-f311-430c-ae58-be2e78ba3300)
+
+
 
 Gossip Giggles is a blog that covers a variety of topics, including news, entertainment, and technology. The site is designed to be a source of information and entertainment for readers of all ages.
+## Landing page
 
 ## Technologies Used
 
