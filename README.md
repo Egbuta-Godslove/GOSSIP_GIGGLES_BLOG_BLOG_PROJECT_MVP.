@@ -1,4 +1,3 @@
- ```
 # Gossip Giggles
 
 ## Project Overview
@@ -16,19 +15,18 @@ The site is built using HTML, CSS, and JavaScript. The following libraries and f
 
 To get started, clone the repository and install the dependencies.
 
-```
 git clone https://github.com/egbutagodslove/gossip-giggles.git
 cd gossip-giggles
 npm install
-```
+
 
 ## Running the Site
 
 To run the site, start the development server.
 
-```
+
 npm start
-```
+
 
 The site will be available at http://localhost:3000.
 
@@ -39,4 +37,3 @@ Contributions to Gossip Giggles are welcome! Please see the [contributing guidel
 ## License
 
 Gossip Giggles is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-```
