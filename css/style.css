@@ -59,7 +59,7 @@ header.shadow{
     transition: .5s;
 }
 
-header.shadow.logo{
+header.shadow .logo{
     color: var(--text-color);
 }
 
